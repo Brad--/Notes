@@ -14,17 +14,5 @@ Goal: Contribute to TensorFlow!
     * Next video: https://www.youtube.com/watch?v=N9fDIAflCMY&index=3&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal 
     * Thing to Review: Visualizing decision tree
 
-### open
-https://developers.google.com/machine-learning/guides/rules-of-ml/
-https://developers.google.com/machine-learning/guides/text-classification/
-
-### up next
-https://developers.google.com/machine-learning/crash-course/
-https://ai.google/education/responsible-ai-practices
-https://tools.google.com/seedbank/ (this might be a 'Next Goal' item but idk yet)
-
-
-### done
-
 # Accomplishments:
 * TODO LOL
