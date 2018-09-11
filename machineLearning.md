@@ -5,12 +5,14 @@ Goal: Contribute to TensorFlow!
 * [Machine Learning Terminology](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 ## Next Item
-Note: Order of TensorFlow and Projects might be switched
+* [Google AI Courses](https://ai.google/education/)
 * [Learn TensorFlow](https://www.tensorflow.org/tutorials/)
-* [Projects](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 
 ## Current Item (This is temporary to keep track of my progress on a given page)
-The [Google AI](https://ai.google/education/) courses! Just a list of them so I don't miss any.
+* [Projects](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+
+    * Next video: https://www.youtube.com/watch?v=N9fDIAflCMY&index=3&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal 
+    * Thing to Review: Visualizing decision tree
 
 ### open
 https://developers.google.com/machine-learning/guides/rules-of-ml/
